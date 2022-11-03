@@ -52,3 +52,14 @@
   width: 120px;
   height: 60px;
 }
+
+.footer{
+  position: absolute;
+  display: flex;
+  bottom: 0px;
+}
+
+a{
+  text-decoration: none !important;
+  color: gray !important;
+}

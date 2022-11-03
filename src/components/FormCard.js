@@ -27,7 +27,7 @@ function FormCard() {
         </div>
         <div className='FormContent'>
         <Form>
-            <Form.Group className="mb-3" controlId="formBasicCompanyName">
+            <Form.Group className="mb-1" controlId="formBasicCompanyName">
                 <Form.Label>Company Name</Form.Label>
                 <Form.Control type="text" placeholder="e.g. Example Inc" />
             </Form.Group>

@@ -12,6 +12,9 @@ function App() {
       <div className="Rectangle-one"/>
       <div className="Rectangle-two"/>
       <FormCard />
+      <div className='footer'>
+        <a href="#">Terms of Use</a> &nbsp;|&nbsp;<a href="#"> Privacy Policy</a>
+      </div>
     </div>
   );
 }
