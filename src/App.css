@@ -1,0 +1,54 @@
+.App{
+  display: flex;
+  justify-content: center;
+}
+.Main-rectangle{
+  position: absolute;
+  width: 1752.96px;
+  height: 392.25px;
+  left: -117.75px;
+  top: 107.11px;
+  
+  /* Gray */
+  
+  background: #F0F0F0;
+  opacity: 0.45;
+  transform: rotate(-30deg);
+
+}
+
+.Rectangle-one{
+  position: absolute;
+  width: 769.01px;
+  height: 13.44px;
+  left: -124.11px;
+  top: 350.09px;
+  
+  /* Primary color extralight focus
+  
+  Used for navbar highlight
+  */
+  background: #E0E8FC;
+  transform: rotate(-30deg);
+}
+
+.Rectangle-two{
+  position: absolute;
+  width: 769.01px;
+  height: 13.44px;
+  left: 792px;
+  top: 287.51px;
+  
+  /* Primary color */
+  
+  background: #3766E8;
+  opacity: 0.2;
+  transform: rotate(-30deg);
+}
+
+.CompanyLogo{
+  position: absolute;
+  left: 0px;
+  width: 120px;
+  height: 60px;
+}
